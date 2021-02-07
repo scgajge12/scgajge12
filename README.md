@@ -11,7 +11,7 @@ My portfolio : [scgajge12.github.io](https://scgajge12.github.io/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scgajge12&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scgajge12&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=scgajge12&color=green)
+![](https://komarev.com/ghpvc/?username=scgajge12&color=green) ![Twitter Follow](https://img.shields.io/twitter/follow/scgajge12?style=social)
 
 
 
