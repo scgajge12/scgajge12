@@ -8,8 +8,8 @@ My portfolio : [scgajge12.github.io](https://scgajge12.github.io/)
 [![](https://raw.githubusercontent.com/scgajge12/scgajge12/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/scgajge12/scgajge12/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scgajge12&count_private=true&show_icons=true&theme=nord)](https://github.com/scgajge12/README.md)
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scgajge12&layout=compact&theme=nord)](https://github.com/scgajge12/README.md)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scgajge12&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scgajge12&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=scgajge12&color=green)
 
