@@ -2,7 +2,7 @@
 
 I'm a student studying Information Security.
 
-My profile : [scgajge12.github.io](https://scgajge12.github.io/)
+My portfolio : [scgajge12.github.io](https://scgajge12.github.io/)
 
 [![](https://raw.githubusercontent.com/scgajge12/scgajge12/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/scgajge12/scgajge12/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
