@@ -5,7 +5,7 @@ I'm a student studying Information Security.
 My portfolio : [scgajge12.github.io](https://scgajge12.github.io/)
 
 [![](https://raw.githubusercontent.com/scgajge12/scgajge12/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/scgajge12/scgajge12/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/scgajge12/scgajge12/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/scgajge12/scgajge12/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/scgajge12/scgajge12/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scgajge12&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
